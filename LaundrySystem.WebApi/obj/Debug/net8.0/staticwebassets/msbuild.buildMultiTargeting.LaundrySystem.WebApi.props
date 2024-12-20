@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LaundrySystem.WebApi.props" />
+</Project>

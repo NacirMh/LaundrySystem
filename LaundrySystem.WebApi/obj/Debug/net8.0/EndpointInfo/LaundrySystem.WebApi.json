@@ -1,0 +1,175 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "LaundrySystem.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Configuration/{id}": {
+      "get": {
+        "tags": [
+          "Configuration"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Machine/start/{cycleId}": {
+      "put": {
+        "tags": [
+          "Machine"
+        ],
+        "parameters": [
+          {
+            "name": "cycleId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Machine/stop/{machineId}": {
+      "put": {
+        "tags": [
+          "Machine"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MachineState"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Machine/{machineId}": {
+      "get": {
+        "tags": [
+          "Machine"
+        ],
+        "parameters": [
+          {
+            "name": "machineId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "Day",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "Month",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "Year",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "MachineState": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}

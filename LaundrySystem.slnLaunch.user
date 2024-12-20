@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

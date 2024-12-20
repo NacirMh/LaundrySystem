@@ -1,0 +1,12 @@
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\bin\Debug\net8.0\LaundrySystem.Domain.deps.json
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\bin\Debug\net8.0\LaundrySystem.Domain.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\bin\Debug\net8.0\LaundrySystem.Domain.pdb
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.AssemblyInfo.cs
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\refint\LaundrySystem.Domain.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.pdb
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\ref\LaundrySystem.Domain.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.csproj.AssemblyReference.cache
