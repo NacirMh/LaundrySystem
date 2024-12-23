@@ -11,7 +11,9 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
         {
             _DbContext = dbCon;
         }
-        public Owner? GetConfigurationById(int id)
+
+
+        public Owner? GetConfigurationById(string id)
         {
             var owner = _DbContext.Owners.FirstOrDefault(x => x.Id == id);
             if (owner is null)

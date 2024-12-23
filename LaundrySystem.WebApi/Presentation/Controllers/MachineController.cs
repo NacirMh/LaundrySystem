@@ -1,9 +1,12 @@
 ﻿using LaundrySystem.Domain.Models;
 using LaundrySystem.Domain.ValueObjects;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
+using LaundrySystem.WebApi.MiddleWares;
 using LaundrySystem.WebApi.Presentation.Mappers;
 using LaundrySystem.WebApi.Presentation.QueryObjects;
 using Microsoft.AspNetCore.Mvc;
+using System.Net.WebSockets;
+using System.Text;
 
 namespace LaundrySystem.WebApi.Presentation.Controllers
 {
@@ -12,7 +15,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
     public class MachineController : ControllerBase
     {
         private readonly IMachineService _machineManagement;
-        public MachineController(IMachineService machineManagement)
+        public MachineController(IMachineService machineManagement , WebSocketConnectionManager webSocketManager)
         {
             _machineManagement = machineManagement;
         }
@@ -21,6 +24,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
         public IActionResult StartMachine(int cycleId, [FromBody] MachineState state)
         {
             Machine machine = _machineManagement.StartMachine(cycleId);
+            
             return Ok(machine.ToMachineDTO());
         }
 

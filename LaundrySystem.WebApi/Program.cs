@@ -2,6 +2,7 @@ using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Business.Services;
 using LaundrySystem.WebApi.Infrastructure.Daos;
 using LaundrySystem.WebApi.Infrastructure.Data;
+using LaundrySystem.WebApi.MiddleWares;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,6 +19,10 @@ builder.Services.AddScoped<IMachineService, MachineManagement>();
 builder.Services.AddScoped<IMachineDAO, MachineDao>();
 builder.Services.AddScoped<IActionDAO, ActionDao>();
 builder.Services.AddScoped<ICycleDAO, CycleDao>();
+builder.Services.AddScoped<IOwnerDao, OwnerDao>();
+builder.Services.AddScoped<IJWTTokenManager, JWTTokenManager>();
+builder.Services.AddSingleton<WebSocketConnectionManager>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,9 +32,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseWebSockets();
 
-app.UseAuthorization();
+app.UseWebSocketMiddleWare();
+
+app.UseHttpsRedirection();
 
 app.MapControllers();
 

@@ -5,6 +5,7 @@ C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\obj\Debu
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\obj\Debug\net8.0\LaundrySystem.WebApi.csproj.CoreCompileInputs.cache
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\obj\Debug\net8.0\LaundrySystem.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\obj\Debug\net8.0\LaundrySystem.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\obj\Debug\net8.0\LaundrySystem.WebApi.sourcelink.json
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\LaundrySystem.WebApi.staticwebassets.endpoints.json
@@ -17,6 +18,7 @@ C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debu
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll

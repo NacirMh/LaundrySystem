@@ -10,3 +10,4 @@ C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debu
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.pdb
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\ref\LaundrySystem.Domain.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Domain\obj\Debug\net8.0\LaundrySystem.Domain.sourcelink.json

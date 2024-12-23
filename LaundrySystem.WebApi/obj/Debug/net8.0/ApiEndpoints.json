@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "LaundrySystem.WebApi.Presentation.Controllers.AuthenticationController",
+    "Method": "authenticate",
+    "RelativePath": "api/Authentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "LaundrySystem.Domain.Dtos.Account.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "LaundrySystem.WebApi.Presentation.Controllers.ConfigurationController",
     "Method": "GetConfig",
     "RelativePath": "api/Configuration/{id}",
@@ -9,7 +25,7 @@
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.Int32",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],

@@ -11,7 +11,7 @@ namespace LaundrySystem.WebApi.Business.Services
             _dao = dao;
         }
 
-        public Owner GetConfigurations(int id)
+        public Owner GetConfigurations(string id)
         {
             var Owners = _dao.GetConfigurationById(id);
             return Owners;

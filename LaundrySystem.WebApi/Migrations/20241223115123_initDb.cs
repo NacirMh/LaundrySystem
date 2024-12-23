@@ -15,9 +15,9 @@ namespace LaundrySystem.WebApi.Migrations
                 name: "Owners",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -31,7 +31,7 @@ namespace LaundrySystem.WebApi.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    OwnerId = table.Column<int>(type: "int", nullable: false)
+                    OwnerId = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -51,15 +51,15 @@ namespace LaundrySystem.WebApi.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Model = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IsRunning = table.Column<bool>(type: "bit", nullable: false),
-                    LaverieId = table.Column<int>(type: "int", nullable: false)
+                    State = table.Column<int>(type: "int", nullable: false),
+                    LaundryId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Machines", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Machines_Laveries_LaverieId",
-                        column: x => x.LaverieId,
+                        name: "FK_Machines_Laveries_LaundryId",
+                        column: x => x.LaundryId,
                         principalTable: "Laveries",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -122,9 +122,9 @@ namespace LaundrySystem.WebApi.Migrations
                 column: "OwnerId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Machines_LaverieId",
+                name: "IX_Machines_LaundryId",
                 table: "Machines",
-                column: "LaverieId");
+                column: "LaundryId");
         }
 
         /// <inheritdoc />

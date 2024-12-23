@@ -13,7 +13,7 @@ namespace LaundrySystem.Domain.Models
         public string Name { get; set; }
 
         [ForeignKey(nameof(Owner))]
-        public int OwnerId { get; set; }
+        public string OwnerId { get; set; }
         public virtual Owner Owner { get; set; }
         public virtual IEnumerable<Machine> Machines { get; set; } = new List<Machine>();
 

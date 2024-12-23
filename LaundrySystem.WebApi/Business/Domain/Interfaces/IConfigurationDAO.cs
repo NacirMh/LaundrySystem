@@ -3,7 +3,7 @@ namespace LaundrySystem.WebApi.Business.Domain.Interfaces
 {
     public interface IConfigurationDAO
     {
-        public Owner? GetConfigurationById(int id);
+        public Owner? GetConfigurationById(string id);
         public List<Owner> GetAllConfigurations();
         
     }

@@ -4,6 +4,6 @@ namespace LaundrySystem.WebApi.Business.Domain.Interfaces
 {
     public interface IConfigurationService
     {
-        public Owner GetConfigurations(int id);
+        public Owner GetConfigurations(string id);
     }
 }

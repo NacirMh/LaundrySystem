@@ -4,6 +4,10 @@ using LaundrySystem.Domain.Dtos.Machine;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.Domain.ValueObjects;
 using LaundrySystem.WebApi.Infrastructure.Daos;
+using Microsoft.AspNetCore.Http;
+using System.Net.WebSockets;
+using System.Text;
+using LaundrySystem.WebApi.MiddleWares;
 
 namespace LaundrySystem.WebApi.Business.Services
 {
@@ -12,11 +16,15 @@ namespace LaundrySystem.WebApi.Business.Services
         private readonly IMachineDAO _machineDAO;
         private readonly IActionDAO _actionDAO;
         private readonly ICycleDAO _cycleDAO;
-        public MachineManagement(IMachineDAO machineDAO, IActionDAO actionDAO , ICycleDAO cycleDAO)
+        private readonly WebSocketConnectionManager _webSocketManager;
+
+        public MachineManagement(IMachineDAO machineDAO, IActionDAO actionDAO , ICycleDAO cycleDAO , WebSocketConnectionManager webSocketManager)
         {
             _machineDAO = machineDAO;
             _actionDAO = actionDAO;
             _cycleDAO = cycleDAO;
+            _webSocketManager = webSocketManager;
+
         }
 
         public Machine StartMachine(int cycleId)
@@ -28,6 +36,11 @@ namespace LaundrySystem.WebApi.Business.Services
                 CycleId = cycleId,
             };
             _actionDAO.CreateAction(action);
+
+            var wssession = _webSocketManager.getSockets().FirstOrDefault(x => x.Id == "1");
+
+            wssession.Socket.SendAsync(new ArraySegment<byte>(Encoding.UTF8.GetBytes($"machine id {machine.Id} started")), WebSocketMessageType.Text, true, CancellationToken.None);
+
             return machine;
         }
 
@@ -62,6 +75,9 @@ namespace LaundrySystem.WebApi.Business.Services
         public Machine StopMachine(int MachineId)
         {
             Machine machine = _machineDAO.ChangeMachineState(MachineId,MachineState.Stopped);
+            var wssession = _webSocketManager.getSockets().FirstOrDefault(x => x.Id == "1");
+
+            wssession.Socket.SendAsync(new ArraySegment<byte>(Encoding.UTF8.GetBytes($"machine id {MachineId} stopped")), WebSocketMessageType.Text, true, CancellationToken.None);
             return machine;
         }
     }

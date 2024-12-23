@@ -16,3 +16,4 @@ C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\D
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.pdb
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.genruntimeconfig.cache
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\ref\LaundrySystem.Simulator.dll
+C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.sourcelink.json

@@ -18,7 +18,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetConfig(int id)
+        public IActionResult GetConfig(string id)
         {
             var Configurations = _configService.GetConfigurations(id).ToOwnerDTO();
             if (Configurations == null)

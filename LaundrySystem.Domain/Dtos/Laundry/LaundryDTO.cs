@@ -9,7 +9,7 @@ namespace LaundrySystem.Domain.Dtos.Laundry
         public string Name { get; set; }
 
 
-        public int OwnerId { get; set; }
+        public string OwnerId { get; set; }
 
         public List<MachineDTO> Machines { get; set; } = new List<MachineDTO>();
     }
