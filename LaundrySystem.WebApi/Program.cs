@@ -2,7 +2,7 @@ using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Business.Services;
 using LaundrySystem.WebApi.Infrastructure.Daos;
 using LaundrySystem.WebApi.Infrastructure.Data;
-using LaundrySystem.WebApi.MiddleWares;
+using LaundrySystem.WebApi.WebSocketLib;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +21,7 @@ builder.Services.AddScoped<IActionDAO, ActionDao>();
 builder.Services.AddScoped<ICycleDAO, CycleDao>();
 builder.Services.AddScoped<IOwnerDao, OwnerDao>();
 builder.Services.AddScoped<IJWTTokenManager, JWTTokenManager>();
+builder.Services.AddScoped<WebSocketHandler>();
 builder.Services.AddSingleton<WebSocketConnectionManager>();
 
 var app = builder.Build();

@@ -1,6 +1,6 @@
 ﻿using System.Net.WebSockets;
 
-namespace LaundrySystem.WebApi.MiddleWares
+namespace LaundrySystem.WebApi.WebSocketLib
 {
     public class WebSocketConnectionManager
     {

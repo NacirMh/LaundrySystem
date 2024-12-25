@@ -1,4 +1,4 @@
-﻿namespace LaundrySystem.WebApi.MiddleWares
+﻿namespace LaundrySystem.WebApi.WebSocketLib
 {
     public static class WebSocketMiddleWareExtension
     {

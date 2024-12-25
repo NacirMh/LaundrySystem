@@ -1,4 +1,5 @@
-﻿using LaundrySystem.Domain.Dtos.Owner;
+﻿using Azure.Messaging;
+using LaundrySystem.Domain.Dtos.Owner;
 using LaundrySystem.Domain.Models;
 using LaundrySystem.Domain.ValueObjects;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
@@ -9,20 +10,23 @@ using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
 
-namespace LaundrySystem.WebApi.MiddleWares
+namespace LaundrySystem.WebApi.WebSocketLib
 {
     public class WebSocketMiddleWare
     {
         private readonly RequestDelegate _requestDelegate;
         private readonly WebSocketConnectionManager _connectionManager;
+        private readonly WebSocketHandler _webSocketHandler;
         private readonly IJWTTokenManager _tokenManager;
         private readonly IServiceProvider _serviceProvider;
         private readonly IConfigurationService _configurationService;
+        
         public WebSocketMiddleWare(RequestDelegate requestDelegate, WebSocketConnectionManager connectionManager,IServiceProvider serviceProvider)
         {
             _requestDelegate = requestDelegate;
             _connectionManager = connectionManager;
             _serviceProvider = serviceProvider;
+            _webSocketHandler = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<WebSocketHandler>();
             _tokenManager = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IJWTTokenManager>();
             _configurationService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IConfigurationService>();
 
@@ -32,10 +36,8 @@ namespace LaundrySystem.WebApi.MiddleWares
         {
             if (context.WebSockets.IsWebSocketRequest)
             {
-
                 WebSocket websocket = await context.WebSockets.AcceptWebSocketAsync();
                 await HandleConnection(websocket);
-
             }
             else
             {
@@ -63,8 +65,14 @@ namespace LaundrySystem.WebApi.MiddleWares
                             Token = authMessage.Token,
                         };
                         _connectionManager.AddNewSocket(socketSession);
-                        
-                        await SendMessageAsync(ws, _configurationService.GetConfigurations(authMessage.Id).ToOwnerDTO());
+
+                        WebSocketMessage wsMessage = new WebSocketMessage
+                        {
+                            Type = "Configuration",
+                            Message = _configurationService.GetConfigurations(authMessage.Id).ToOwnerDTO()
+                        };
+
+                        await _webSocketHandler.SendMessageAsync(ws, wsMessage);
                     }
                     else
                     {
@@ -75,12 +83,6 @@ namespace LaundrySystem.WebApi.MiddleWares
             }
         }
 
-        private async Task SendMessageAsync(WebSocket ws, Object message)
-        {
-            var messageString = JsonSerializer.Serialize(message);
-            var byteArray = Encoding.UTF8.GetBytes(messageString);
-            await ws.SendAsync(new ArraySegment<byte>(byteArray), WebSocketMessageType.Text, true, CancellationToken.None);
-        }
     }
 
 }

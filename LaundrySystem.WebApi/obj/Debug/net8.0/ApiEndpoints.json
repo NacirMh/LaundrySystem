@@ -33,37 +33,6 @@
   },
   {
     "ContainingType": "LaundrySystem.WebApi.Presentation.Controllers.MachineController",
-    "Method": "MachineTotalIncome",
-    "RelativePath": "api/Machine/{machineId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "machineId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "Day",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Month",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Year",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "LaundrySystem.WebApi.Presentation.Controllers.MachineController",
     "Method": "StartMachine",
     "RelativePath": "api/Machine/start/{cycleId}",
     "HttpMethod": "PUT",

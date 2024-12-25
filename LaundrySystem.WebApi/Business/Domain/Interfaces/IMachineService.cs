@@ -4,8 +4,10 @@ namespace LaundrySystem.WebApi.Business.Domain.Interfaces
 {
     public interface IMachineService
     {
-         public Machine StartMachine(int cycleId);
-         public decimal CalculateMachineIncomes(int MachineId, DateOnly? day);
-         public Machine StopMachine(int MachineId);
+         public Actionn StartMachine(int cycleId);
+         public decimal CalculateMonthIncomes(int MachineId);
+         public decimal CalculateTodayIncomes(int MachineId);
+         public decimal CalculateTotalIncomes(int MachineId);
+        public Machine StopMachine(int MachineId);
     }
 }

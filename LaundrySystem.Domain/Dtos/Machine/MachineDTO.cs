@@ -11,6 +11,7 @@ namespace LaundrySystem.Domain.Dtos.Machine
         public  MachineState State  { get; set; }   
         public int LaundryId { get; set; }
 
+     
         public List<CycleDTO> Cycles { get; set; } = new List<CycleDTO>();
     }
 }

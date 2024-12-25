@@ -1,11 +1,14 @@
 ﻿using LaundrySystem.Domain.Models;
 using LaundrySystem.Domain.Dtos.Machine;
 using System.Reflection.Metadata.Ecma335;
+using LaundrySystem.WebApi.Business.Domain.Interfaces;
+using LaundrySystem.WebApi.Business.Services;
 
 namespace LaundrySystem.WebApi.Presentation.Mappers
 {
     public static class MachineMapper
     {
+        
         public static MachineDTO ToMachineDTO(this Machine machine)
         {
             return new MachineDTO
@@ -15,8 +18,6 @@ namespace LaundrySystem.WebApi.Presentation.Mappers
                 Model = machine.Model,
                 State = machine.State,
                 Cycles = machine.Cycles.Select(x => x.ToCycleDTO()).ToList(),
-
-
             };
         }
     }
