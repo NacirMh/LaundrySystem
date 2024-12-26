@@ -11,7 +11,7 @@ namespace LaundrySystem.WebApi.Presentation.Mappers
             return new CycleDTO
             {
                 Id = cycle.Id,
-                Durée = cycle.Durée,
+                Duration = cycle.Duration,
                 Cout = cycle.Cout,
                 MachineId = cycle.MachineId,
                 Actions = cycle.Actions.Select(x => x.ToActionDTO()).ToList(),
@@ -22,7 +22,7 @@ namespace LaundrySystem.WebApi.Presentation.Mappers
             return new Cycle
             {
                 Id = cycle.Id,
-                Durée = cycle.Durée,
+                Duration = cycle.Duration,
                 Cout = cycle.Cout,
                 MachineId = cycle.MachineId,
             };

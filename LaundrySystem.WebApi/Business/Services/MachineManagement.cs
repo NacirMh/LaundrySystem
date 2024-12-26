@@ -34,7 +34,7 @@ namespace LaundrySystem.WebApi.Business.Services
             {
                 CycleId = cycleId,
             };
-            _actionDAO.CreateAction(action);      
+            _actionDAO.CreateAction(action);
             return action;
         }
 
@@ -44,14 +44,12 @@ namespace LaundrySystem.WebApi.Business.Services
             return machine;
         }
 
-        
-
         public decimal CalculateMonthIncomes(int MachineId)
         {
             return CalculateIncomes(MachineId, x => DateTime.Now.Month == x.Month);
         }
 
-        public decimal CalculateTodayIncomes(int MachineId )
+        public decimal CalculateTodayIncomes(int MachineId)
         {
             return CalculateIncomes(MachineId, x => DateTime.Now.Day == x.Day);
         }
@@ -59,7 +57,7 @@ namespace LaundrySystem.WebApi.Business.Services
         public decimal CalculateTotalIncomes(int MachineId)
         {
             return CalculateIncomes(MachineId);
-            
+
         }
 
 
@@ -79,7 +77,14 @@ namespace LaundrySystem.WebApi.Business.Services
                 }
                 else
                 {
-                    totalIncome += cycle.Actions.Where(x => dateCompare(x.Date)).Count() * cycle.Cout;
+                    if (dateCompare is null)
+                    {
+                        totalIncome += cycle.Actions.Count() * cycle.Cout;
+                    }
+                    else
+                    {
+                        totalIncome += cycle.Actions.Where(x => dateCompare(x.Date)).Count() * cycle.Cout;
+                    }
                 }
             }
             return totalIncome;

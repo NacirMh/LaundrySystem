@@ -10,7 +10,11 @@ namespace LaundrySystem.Domain.Dtos.Laundry
 
 
         public string OwnerId { get; set; }
+        public decimal TotalIncome { get; set; }
 
+        public decimal TodayIncome { get; set; }
+
+        public decimal MonthIncome { get; set; }
         public List<MachineDTO> Machines { get; set; } = new List<MachineDTO>();
     }
 }

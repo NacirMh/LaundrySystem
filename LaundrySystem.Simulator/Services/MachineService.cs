@@ -29,7 +29,7 @@ namespace LaundrySystem.Simulator.Services
             using HttpResponseMessage response = await _httpClient.PutAsync(url, content);
             response.EnsureSuccessStatusCode();
             string responseBody = await response.Content.ReadAsStringAsync();
-            await StartTimer(cycle.Durée , cycle.MachineId);
+            await StartTimer(cycle.Duration , cycle.MachineId);
             return true;
         }
 

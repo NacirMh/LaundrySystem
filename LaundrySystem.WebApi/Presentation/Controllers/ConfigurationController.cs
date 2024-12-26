@@ -12,15 +12,26 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
     public class ConfigurationController : ControllerBase
     {
         private readonly IConfigurationService _configService;
-        public ConfigurationController(IConfigurationService configService)
+        private readonly IMachineService _machineService;
+        public ConfigurationController(IConfigurationService configService ,IMachineService machineService)
         {
             _configService = configService;
+            _machineService = machineService;
         }
 
         [HttpGet("{id}")]
         public IActionResult GetConfig(string id)
         {
             var Configurations = _configService.GetConfigurations(id).ToOwnerDTO();
+
+            foreach (var Configuration in Configurations.Laundries) {
+                Configuration.Machines.ForEach(machine => {
+                    machine.TodayIncome = _machineService.CalculateTodayIncomes(machine.Id);
+                    machine.MonthIncome = _machineService.CalculateMonthIncomes(machine.Id);
+                    machine.TotalIncome = _machineService.CalculateTotalIncomes(machine.Id);
+                });
+            }
+
             if (Configurations == null)
             {
                 return NotFound();

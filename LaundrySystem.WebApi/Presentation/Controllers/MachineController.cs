@@ -36,6 +36,9 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
                 CycleId = cycleId,
                 MachineId = action.Cycle.Machine.Id,
                 Action = action.ToActionDTO(),
+                MonthIncome = _machineManagement.CalculateMonthIncomes(action.Cycle.Machine.Id),
+                TodayIncome = _machineManagement.CalculateTodayIncomes(action.Cycle.Machine.Id),
+                TotalIncome = _machineManagement.CalculateTotalIncomes(action.Cycle.Machine.Id),
             };
 
             var socketMessage = new WebSocketMessage

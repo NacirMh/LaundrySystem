@@ -105,7 +105,7 @@ void DisplayAllCycles(MachineDTO machine)
     DisplayTextWithColor($"Machine id {machine.Id} cycles:",ConsoleColor.Magenta);
     foreach (var cycleDto in machine.Cycles)
     {
-        Console.WriteLine($"Id : {cycleDto.Id} - Price: {cycleDto.Cout} - Duration :{cycleDto.Durée} - Total Actions : {cycleDto.Actions.Count} ");
+        Console.WriteLine($"Id : {cycleDto.Id} - Price: {cycleDto.Cout} - Duration :{cycleDto.Duration} - Total Actions : {cycleDto.Actions.Count} ");
     }
 }
 

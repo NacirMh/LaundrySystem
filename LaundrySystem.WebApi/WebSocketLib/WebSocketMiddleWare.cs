@@ -6,6 +6,7 @@ using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Business.Services;
 using LaundrySystem.WebApi.Presentation.Mappers;
 using System.Net.WebSockets;
+using System.Reflection.Metadata;
 using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
@@ -20,6 +21,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
         private readonly IJWTTokenManager _tokenManager;
         private readonly IServiceProvider _serviceProvider;
         private readonly IConfigurationService _configurationService;
+        private readonly IMachineService _machineService;
         
         public WebSocketMiddleWare(RequestDelegate requestDelegate, WebSocketConnectionManager connectionManager,IServiceProvider serviceProvider)
         {
@@ -29,6 +31,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
             _webSocketHandler = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<WebSocketHandler>();
             _tokenManager = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IJWTTokenManager>();
             _configurationService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IConfigurationService>();
+            _machineService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IMachineService>();
 
         }
 
@@ -66,10 +69,21 @@ namespace LaundrySystem.WebApi.WebSocketLib
                         };
                         _connectionManager.AddNewSocket(socketSession);
 
+                        var configurations = _configurationService.GetConfigurations(authMessage.Id).ToOwnerDTO();
+
+                        foreach (var Configuration in configurations.Laundries)
+                        {
+                            Configuration.Machines.ForEach(machine => {
+                                machine.TodayIncome = _machineService.CalculateTodayIncomes(machine.Id);
+                                machine.MonthIncome = _machineService.CalculateMonthIncomes(machine.Id);
+                                machine.TotalIncome = _machineService.CalculateTotalIncomes(machine.Id);
+                            });
+                        }
+
                         WebSocketMessage wsMessage = new WebSocketMessage
                         {
                             Type = "Configuration",
-                            Message = _configurationService.GetConfigurations(authMessage.Id).ToOwnerDTO()
+                            Message =  configurations
                         };
 
                         await _webSocketHandler.SendMessageAsync(ws, wsMessage);

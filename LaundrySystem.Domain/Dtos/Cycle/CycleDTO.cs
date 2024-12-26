@@ -8,7 +8,7 @@ namespace LaundrySystem.Domain.Dtos.Cycle
         public int Id { get; set; }
         public decimal Cout { get; set; }
 
-        public int Durée { get; set; }
+        public int Duration { get; set; }
 
         public int MachineId { get; set; }
         public List<ActionDTO> Actions { get; set; } = new List<ActionDTO>();

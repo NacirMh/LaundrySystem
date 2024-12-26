@@ -14,7 +14,7 @@ namespace LaundrySystem.Domain.Models
         public int Id { get; set; } 
         public decimal Cout { get; set; }
 
-        public int Durée { get; set; }
+        public int Duration { get; set; }
 
         [ForeignKey(nameof(Machine))]
         public int MachineId { get; set; }  
