@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaundrySystem.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f34c95356da51931b765417ae7a9fff7356c4fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ccfdb6edb1d05cb7b157e933175c4eac27a7fa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaundrySystem.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaundrySystem.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

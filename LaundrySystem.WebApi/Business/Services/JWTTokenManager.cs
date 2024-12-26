@@ -22,12 +22,10 @@ namespace LaundrySystem.WebApi.Business.Services
             _key = Encoding.UTF8.GetBytes(_configuration["JWT:Key"]);
 
         }
-        public bool Authenticate(string id, string password) { 
-            var owner = _ownerDao.Login(id, password);
-            if (owner == null) {
-                return false;
-            }
-            return true;
+        public Owner? Authenticate(string username, string password) { 
+            var owner = _ownerDao.Login(username, password);
+            
+            return owner;
         }
 
         public bool verifyToken(string Token)

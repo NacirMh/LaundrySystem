@@ -10,18 +10,19 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
     public class AuthenticationController : ControllerBase
     {
         private readonly IJWTTokenManager _tokenManager;
+
         public AuthenticationController(IJWTTokenManager tokenManager)
         {
             _tokenManager = tokenManager;
         }
 
-
         [HttpPost]
         public IActionResult authenticate([FromBody] LoginDto login)
         {
-            if (_tokenManager.Authenticate(login.Id, login.Password))
+            var owner = _tokenManager.Authenticate(login.Name, login.Password);
+            if (owner != null)
             {
-                return Ok(_tokenManager.NewToken(login.Id));
+                return Ok(_tokenManager.NewToken(owner.Id));
             }
             return Unauthorized();
         }

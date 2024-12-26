@@ -3,7 +3,6 @@ using LaundrySystem.Domain.Models;
 using LaundrySystem.Domain.ValueObjects;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Presentation.Mappers;
-using LaundrySystem.WebApi.Presentation.QueryObjects;
 using LaundrySystem.WebApi.WebSocketLib;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

@@ -8,7 +8,7 @@ namespace LaundrySystem.Domain.Dtos.Account
 {
     public class LoginDto
     {
-        public string Id { get; set; }
+        public string Name { get; set; }
         public string Password { get; set; }
     }
 }

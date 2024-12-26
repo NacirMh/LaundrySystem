@@ -148,7 +148,7 @@
       "LoginDto": {
         "type": "object",
         "properties": {
-          "id": {
+          "name": {
             "type": "string",
             "nullable": true
           },

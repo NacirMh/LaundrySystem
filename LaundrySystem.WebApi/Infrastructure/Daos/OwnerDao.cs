@@ -11,9 +11,9 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
         {
              _dbContext = appDbContext;
         }
-        public Owner? Login(string id, string password)
+        public Owner? Login(string name, string password)
         {
-            var owner = _dbContext.Owners.FirstOrDefault(x=>x.Id == id && x.Password == password);
+            var owner = _dbContext.Owners.FirstOrDefault(x=>x.Name == name  && x.Password == password);
             return owner;
         }
     }
