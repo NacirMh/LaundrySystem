@@ -20,6 +20,8 @@ builder.Services.AddScoped<IMachineDAO, MachineDao>();
 builder.Services.AddScoped<IActionDAO, ActionDao>();
 builder.Services.AddScoped<ICycleDAO, CycleDao>();
 builder.Services.AddScoped<IOwnerDao, OwnerDao>();
+builder.Services.AddScoped<ILaundryDao, LaundryDao>();
+builder.Services.AddScoped<ILaundryService, LaundryManagement>();
 builder.Services.AddScoped<IJWTTokenManager, JWTTokenManager>();
 builder.Services.AddScoped<WebSocketHandler>();
 builder.Services.AddSingleton<WebSocketConnectionManager>();
@@ -32,6 +34,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors((configPolicy) =>
+{
+    configPolicy.AllowAnyMethod();
+    configPolicy.AllowAnyOrigin();
+    configPolicy.AllowAnyHeader();
+
+});
 
 app.UseWebSockets();
 

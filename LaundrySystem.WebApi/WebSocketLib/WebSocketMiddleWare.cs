@@ -22,6 +22,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
         private readonly IServiceProvider _serviceProvider;
         private readonly IConfigurationService _configurationService;
         private readonly IMachineService _machineService;
+        private readonly ILaundryService _laundryService;
         
         public WebSocketMiddleWare(RequestDelegate requestDelegate, WebSocketConnectionManager connectionManager,IServiceProvider serviceProvider)
         {
@@ -32,7 +33,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
             _tokenManager = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IJWTTokenManager>();
             _configurationService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IConfigurationService>();
             _machineService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<IMachineService>();
-
+            _laundryService = _serviceProvider.CreateScope().ServiceProvider.GetRequiredService<ILaundryService>();
         }
 
         public async Task InvokeAsync(HttpContext context)
@@ -70,15 +71,18 @@ namespace LaundrySystem.WebApi.WebSocketLib
                         _connectionManager.AddNewSocket(socketSession);
 
                         var configurations = _configurationService.GetConfigurations(authMessage.Id).ToOwnerDTO();
-
-                        foreach (var Configuration in configurations.Laundries)
+                        foreach (var laundry in configurations.Laundries)
                         {
-                            Configuration.Machines.ForEach(machine => {
+                            laundry.Machines.ForEach(machine => {
                                 machine.TodayIncome = _machineService.CalculateTodayIncomes(machine.Id);
                                 machine.MonthIncome = _machineService.CalculateMonthIncomes(machine.Id);
                                 machine.TotalIncome = _machineService.CalculateTotalIncomes(machine.Id);
                             });
+                            laundry.TotalIncome = _laundryService.CalculateTotalIncomes(laundry.Id);
+                            laundry.MonthIncome = _laundryService.CalculateMonthIncomes(laundry.Id);
+                            laundry.TodayIncome = _laundryService.CalculateTodayIncomes(laundry.Id);
                         }
+                        
 
                         WebSocketMessage wsMessage = new WebSocketMessage
                         {

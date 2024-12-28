@@ -1,8 +1,6 @@
 ﻿using LaundrySystem.Domain.Models;
 using LaundrySystem.Domain.Dtos.Machine;
-using System.Reflection.Metadata.Ecma335;
-using LaundrySystem.WebApi.Business.Domain.Interfaces;
-using LaundrySystem.WebApi.Business.Services;
+
 
 namespace LaundrySystem.WebApi.Presentation.Mappers
 {

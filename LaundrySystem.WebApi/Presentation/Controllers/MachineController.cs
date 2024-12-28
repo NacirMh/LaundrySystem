@@ -18,10 +18,12 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
     {
         private readonly IMachineService _machineManagement;
         private readonly WebSocketHandler _webSocketHandler;
-        public MachineController(IMachineService machineManagement , WebSocketHandler webSocketHandler)
+        private readonly ILaundryService _laundryService;
+        public MachineController(IMachineService machineManagement , ILaundryService laundryService, WebSocketHandler webSocketHandler)
         {
             _machineManagement = machineManagement;
             _webSocketHandler = webSocketHandler;
+            _laundryService = laundryService;
         }
 
         [HttpPut("start/{cycleId}")]
@@ -30,9 +32,16 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
             Actionn action = _machineManagement.StartMachine(cycleId);
 
             var socketId = action.Cycle.Machine.Laundry.OwnerId;
-
+            var laundryId = action.Cycle.Machine.LaundryId;
             var machineStartedDTO = new MachineStartedDto
             {
+                Laundry = new LaundryDtoOnMachineStarted
+                {
+                    LaundryId = laundryId,
+                    TodayIncome = _laundryService.CalculateTodayIncomes(laundryId),
+                    MonthIncome = _laundryService.CalculateMonthIncomes(laundryId),
+                    TotalIncome = _laundryService.CalculateTotalIncomes(laundryId)
+                },
                 CycleId = cycleId,
                 MachineId = action.Cycle.Machine.Id,
                 Action = action.ToActionDTO(),
