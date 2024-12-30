@@ -18,6 +18,8 @@ namespace LaundrySystem.WebApi.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
+
             modelBuilder.Entity<Owner>()
                 .HasIndex(c => new { c.Name })
                 .IsUnique(true);

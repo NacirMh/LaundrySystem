@@ -12,7 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDbContext>(options => options.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("ConDb")));
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConDb")));
 builder.Services.AddScoped<IConfigurationService, ConfigurationBusiness>();
 builder.Services.AddScoped<IConfigurationDAO, ConfigurationDao>();
 builder.Services.AddScoped<IMachineService, MachineManagement>();

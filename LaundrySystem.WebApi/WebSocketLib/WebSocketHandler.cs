@@ -5,6 +5,7 @@ using System.Text;
 using LaundrySystem.Domain.Dtos.Machine;
 using Microsoft.AspNetCore.Http;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
+using System.Linq.Expressions;
 
 namespace LaundrySystem.WebApi.WebSocketLib
 {
@@ -45,7 +46,14 @@ namespace LaundrySystem.WebApi.WebSocketLib
             {
                 if (session.Socket.State == WebSocketState.Open && _tokenManager.verifyToken(session.Token))
                 {
-                    await session.Socket.SendAsync(new ArraySegment<byte>(Encoding.UTF8.GetBytes(messageJson)), WebSocketMessageType.Text, true, CancellationToken.None);
+                    try
+                    {
+                        await session.Socket.SendAsync(new ArraySegment<byte>(Encoding.UTF8.GetBytes(messageJson)), WebSocketMessageType.Text, true, CancellationToken.None);
+                    }catch(Exception e)
+                    {
+                        Console.WriteLine(e);
+                        
+                    }
                 }
             }
 

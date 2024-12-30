@@ -1,6 +1,7 @@
 ﻿using LaundrySystem.Domain.Models;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace LaundrySystem.WebApi.Infrastructure.Daos
 {
@@ -20,7 +21,9 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
 
         public Laundry? GetById(int id)
         {
-           var laundry = _dbContext.Laveries.FirstOrDefault(x => x.Id == id);
+           var laundry = _dbContext.Laveries
+                .Include(x=>x.Machines)
+               .FirstOrDefault(x => x.Id == id);
            return laundry;
         }
     }

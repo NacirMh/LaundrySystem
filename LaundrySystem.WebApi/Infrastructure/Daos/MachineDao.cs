@@ -3,6 +3,7 @@ using LaundrySystem.Domain.Dtos.Machine;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
 using LaundrySystem.WebApi.Infrastructure.Data;
 using LaundrySystem.Domain.ValueObjects;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace LaundrySystem.WebApi.Infrastructure.Daos
@@ -15,9 +16,10 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
             _dbContext = dbContext;
         }
 
-        public Machine ChangeMachineState(int machineId ,MachineState state)
+       
+        public Machine? ChangeMachineState(int machineId ,MachineState state)
         {
-            var machine = _dbContext.Machines.FirstOrDefault(x => x.Id == machineId);
+            var machine = GetMachineById(machineId);
             if (machine == null)
             {
                 return null;
@@ -28,10 +30,12 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
         }
 
         public Machine? GetMachineById(int machineId) {
-            var machine = _dbContext.Machines.FirstOrDefault(x => x.Id == machineId);
-            if (machine == null) {
-                return null;
-            }
+            var machine = _dbContext.Machines
+                .Include(x => x.Laundry)
+                .Include(x=>x.Cycles)
+                .ThenInclude(x=>x.Actions)
+               .FirstOrDefault(x => x.Id == machineId);
+
             return machine;
         }
     }

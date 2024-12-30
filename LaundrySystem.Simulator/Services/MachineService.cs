@@ -26,6 +26,7 @@ namespace LaundrySystem.Simulator.Services
         {  
             var url = _apiURL+$"/start/{cycle.Id}";
             var content = new StringContent("1", Encoding.UTF8, "application/json");
+            
             using HttpResponseMessage response = await _httpClient.PutAsync(url, content);
             response.EnsureSuccessStatusCode();
             string responseBody = await response.Content.ReadAsStringAsync();

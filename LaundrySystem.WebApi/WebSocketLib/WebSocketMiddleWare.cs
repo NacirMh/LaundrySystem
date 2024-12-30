@@ -55,6 +55,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
             while (ws.State == WebSocketState.Open)
             {
                 var result = await ws.ReceiveAsync(new ArraySegment<byte>(buffer), CancellationToken.None);
+  
                 if (result.MessageType == WebSocketMessageType.Text)
                 {
                     var message = Encoding.UTF8.GetString(buffer, 0, result.Count);
@@ -82,7 +83,6 @@ namespace LaundrySystem.WebApi.WebSocketLib
                             laundry.MonthIncome = _laundryService.CalculateMonthIncomes(laundry.Id);
                             laundry.TodayIncome = _laundryService.CalculateTodayIncomes(laundry.Id);
                         }
-                        
 
                         WebSocketMessage wsMessage = new WebSocketMessage
                         {
@@ -98,6 +98,11 @@ namespace LaundrySystem.WebApi.WebSocketLib
                     }
                 }
                 
+            }
+            if (ws.State != WebSocketState.Closed)
+            {
+                await ws.CloseAsync(WebSocketCloseStatus.NormalClosure, "Closed by server", CancellationToken.None);
+                _connectionManager.RemoveSocket(ws);
             }
         }
 

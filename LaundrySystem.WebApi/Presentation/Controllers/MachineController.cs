@@ -32,6 +32,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
             Actionn action = _machineManagement.StartMachine(cycleId);
 
             var socketId = action.Cycle.Machine.Laundry.OwnerId;
+
             var laundryId = action.Cycle.Machine.LaundryId;
             var machineStartedDTO = new MachineStartedDto
             {
@@ -58,7 +59,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
 
             await _webSocketHandler.SendMessageToAllSessionsAsync(socketId , socketMessage);
 
-            return Ok(action.Cycle.Machine.ToMachineDTO());
+            return Ok();
         }
 
         [HttpPut("stop/{machineId}")]
@@ -77,7 +78,7 @@ namespace LaundrySystem.WebApi.Presentation.Controllers
                 Message = machineStoppedDTO
             };
             await _webSocketHandler.SendMessageToAllSessionsAsync(machine.Laundry.OwnerId , socketMessage);
-            return Ok(machine.ToMachineDTO());
+            return Ok();
         }
 
     }

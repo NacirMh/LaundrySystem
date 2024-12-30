@@ -7,10 +7,12 @@ namespace LaundrySystem.WebApi.Infrastructure.Daos
     public class ActionDao : IActionDAO
     {
         private readonly AppDbContext _dbContext;
+
         public ActionDao(AppDbContext dbContext)
         {
             _dbContext = dbContext;
         }
+
         public Actionn CreateAction(Actionn action)
         {
             _dbContext.Actions.Add(action);

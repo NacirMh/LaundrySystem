@@ -20,8 +20,9 @@ namespace LaundrySystem.WebApi.WebSocketLib
             _sockets.Add(session);
         }
 
-        public void RemoveSocket(WebSocketSession session)
+        public void RemoveSocket(WebSocket socket)
         {
+            var session = _sockets.First(x => x.Socket == socket);
             _sockets.Remove(session);
         }
     }

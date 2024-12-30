@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaundrySystem.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9a1959a01240fa7f9c736362beaf3d76a7f749")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4f7ccfec6740f6a3145ebcad7c7aa0e3dd127e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaundrySystem.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaundrySystem.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

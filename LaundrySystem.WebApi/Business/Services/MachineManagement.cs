@@ -32,10 +32,11 @@ namespace LaundrySystem.WebApi.Business.Services
             Machine machine = _machineDAO.ChangeMachineState(cycle.MachineId, MachineState.Running);
             Actionn action = new Actionn
             {
+                Cycle =cycle,
                 CycleId = cycleId,
             };
-            _actionDAO.CreateAction(action);
-            return action;
+            var createdAction  = _actionDAO.CreateAction(action);
+            return createdAction;
         }
 
         public Machine StopMachine(int MachineId)
