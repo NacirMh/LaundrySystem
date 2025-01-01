@@ -4322,11 +4322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
       "projectName": "LaundrySystem.WebApi",
-      "projectPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
+      "projectPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
       "packagesPath": "C:\\Users\\Nacir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

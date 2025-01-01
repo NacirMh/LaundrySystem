@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
       "projectName": "LaundrySystem.Domain",
-      "projectPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
+      "projectPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
       "packagesPath": "C:\\Users\\Nacir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

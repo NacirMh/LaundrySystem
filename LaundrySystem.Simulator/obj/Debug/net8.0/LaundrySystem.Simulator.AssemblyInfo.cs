@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaundrySystem.Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4f7ccfec6740f6a3145ebcad7c7aa0e3dd127e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a83ad908da97982d8658efa18a9373e28a35d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaundrySystem.Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaundrySystem.Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

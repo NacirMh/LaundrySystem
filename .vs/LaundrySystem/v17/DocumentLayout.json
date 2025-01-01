@@ -1,249 +1,249 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\ownermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\ownermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.simulator\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\machinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\machinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\action\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\action\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\cycle\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\cycle\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\cyclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\cyclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\actionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\actionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\machinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\machinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\laundrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\laundrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\laundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\laundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\actionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\actionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\actiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\actiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\cycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\cycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\ownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\ownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ilaundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websocketconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websocketconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\websocketlib\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\websocketlib\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\ownermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\ownermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.simulator\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\machinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\machinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\action\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\action\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\cycle\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\cycle\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\cyclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\cyclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\actionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\actionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\machinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\machinemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\laundrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\laundrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\laundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\laundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\actionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\actionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\actiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\actiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\cycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\cycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\ownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\ownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ilaundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\ilaundrydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\imachinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\imachinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\imachinedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\configurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\daos\\configurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\daos\\configurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\icycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\icycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\icycledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\iactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\websocketmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\websocketmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\valueobjects\\websocketmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\laundrysystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\laundrysystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\laundrysystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\laundry\\laundrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\laundry\\laundrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\laundry\\laundrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinestoppeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinestoppeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\machine\\machinestoppeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinestarteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\machine\\machinestarteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\machine\\machinestarteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\owner\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\owner\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\owner\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\machinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\machinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\valueobjects\\machinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\laundrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\mappers\\laundrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\mappers\\laundrymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\configurationbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\services\\configurationbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\services\\configurationbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\laundrysystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\laundrysystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\laundrysystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ilaundryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ilaundryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\ilaundryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\presentation\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\presentation\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\20241226213943_changeddurationcolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\20241226213943_changeddurationcolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\migrations\\20241226213943_changeddurationcolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\20241223115123_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\20241223115123_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\migrations\\20241223115123_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ijwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\ijwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\ijwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.webapi\\business\\domain\\interfaces\\iownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB237C17-204D-4ED0-B7BC-5D014D06812F}|LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj|solutionrelative:laundrysystem.webapi\\business\\domain\\interfaces\\iownerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\authmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.domain\\valueobjects\\authmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1A8316-92C0-441B-A192-73A02AB8926F}|LaundrySystem.Domain\\LaundrySystem.Domain.csproj|solutionrelative:laundrysystem.domain\\valueobjects\\authmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.simulator\\laundrysystem.simulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.simulator\\laundrysystem.simulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\laundrysystem.simulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\.net projects\\laundrysystem\\laundrysystem.simulator\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\.net projects\\laundrysystem\\laundrysystem.simulator\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6052A22F-C15D-4294-AE9C-CAA13FDF083F}|LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj|solutionrelative:laundrysystem.simulator\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -278,477 +278,442 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "WebSocketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketHandler.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAUwC4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:16:49.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebSocketSession.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:48:22.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:16:49.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WebSocketSession.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:48:22.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebSocketMiddleWareExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWareExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T10:58:42.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T10:58:42.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTTokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:23:07.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "JWTTokenManager.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\JWTTokenManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:23:07.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "WebSocketConnectionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketConnectionManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:17:16.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T18:17:16.537Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebSocketMiddleWare.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\WebSocketLib\\WebSocketMiddleWare.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:17:18.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MachineMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Program.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:51:08.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OwnerMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:51:14.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MachineService.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\MachineService.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Simulator\\Services\\MachineService.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\MachineService.cs",
-              "RelativeToolTip": "LaundrySystem.Simulator\\Services\\MachineService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:36:12.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MachineController.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADIAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:48:50.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ActionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:38:26.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ActionMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:50:32.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CycleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:38:24.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CycleMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:50:33.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IMachineService.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:04:48.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MachineDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:08:16.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MachineDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:37:51.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:55:06.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "MachineManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA7wD0AAAAIAAAAAAAAAA==",
+              "Title": "MachineMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\MachineMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:05:59.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:51:08.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\OwnerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:51:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MachineService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\MachineService.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Simulator\\Services\\MachineService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\MachineService.cs",
+              "RelativeToolTip": "LaundrySystem.Simulator\\Services\\MachineService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:36:12.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Controllers\\MachineController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:50.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Action\\ActionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:38:26.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\ActionMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:50:32.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CycleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Cycle\\CycleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:38:24.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CycleMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\CycleMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:50:33.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMachineService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:04:48.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MachineDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\MachineDao.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:08:16.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MachineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Machine\\MachineDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:51.155Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "LaundryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswC4AAAAIAAAAAAAAAA==",
+              "Title": "MachineManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\MachineManagement.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA7wD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:07:49.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:05:59.481Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "LaundryDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Title": "LaundryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\LaundryManagement.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:12:18.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T22:07:49.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Actionn.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Actionn.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Actionn.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Actionn.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Actionn.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAAtAAAAAAAAAA==",
+              "Title": "LaundryDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\LaundryDao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:36:52.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T22:12:18.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Cycle.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Cycle.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Cycle.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Cycle.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Cycle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAABEAAAAAAAAAA==",
+              "Title": "Actionn.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Actionn.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Actionn.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Actionn.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Actionn.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:37:08.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:36:52.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Machine.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Machine.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Machine.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Machine.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Machine.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewBQAAABBAAAAAAAAAA==",
+              "Title": "Cycle.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Cycle.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Cycle.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Cycle.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Cycle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:37:19.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:37:08.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ActionDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Machine.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Machine.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Machine.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:06:32.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:37:19.532Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "CycleDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAAIAAAAAAAAAA==",
+              "Title": "ActionDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ActionDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:07:54.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:06:32.003Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Laverie.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Laverie.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Laverie.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Laverie.cs",
-              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Laverie.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAABFAAAAAAAAAA==",
+              "Title": "CycleDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\CycleDao.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:37:12.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:07:54.834Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Program.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.Simulator\\Program.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Program.cs",
-              "RelativeToolTip": "LaundrySystem.Simulator\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowC0AAAAYAAAAAAAAAA==",
+              "Title": "Laverie.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Laverie.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Laverie.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Laverie.cs",
+              "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Laverie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:34:39.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:37:12.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "OwnerDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Program.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.Simulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Program.cs",
+              "RelativeToolTip": "LaundrySystem.Simulator\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:16:06.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:34:39.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\appsettings.json",
-              "RelativeToolTip": "LaundrySystem.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T18:56:03.115Z",
-              "EditorCaption": ""
+              "Title": "OwnerDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
+              "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\OwnerDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:16:06.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Program.cs",
-              "RelativeToolTip": "LaundrySystem.WebApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:55:06.085Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LaundrySystem.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\appsettings.json",
+              "RelativeToolTip": "LaundrySystem.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T18:56:03.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "ConfigurationDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Daos\\ConfigurationDao.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:07:04.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:07:04.105Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "IMachineDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IMachineDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:04:43.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:04:43.442Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ILaundryDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:18:44.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T22:18:44.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "ConfigurationController.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Controllers\\ConfigurationController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAjwB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:50:06.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T18:50:06.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "ICycleDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ICycleDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T15:01:39.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T15:01:39.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "IActionDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IActionDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:00:59.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:00:59.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "IConfigurationDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -758,9 +723,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "WebSocketMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\ValueObjects\\WebSocketMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -770,9 +735,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Owner.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Owner.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Owner.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Entities\\Owner.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Entities\\Owner.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Entities\\Owner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -782,9 +747,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "LaundrySystem.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
               "RelativeToolTip": "LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -794,9 +759,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "LaundryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Laundry\\LaundryDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -806,9 +771,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "MachineStoppedDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Machine\\MachineStoppedDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -818,9 +783,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "MachineStartedDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Machine\\MachineStartedDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -830,9 +795,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -842,9 +807,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "OwnerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Owner\\OwnerDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -854,9 +819,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\Dtos\\Account\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -866,9 +831,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "MachineState.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\ValueObjects\\MachineState.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -878,9 +843,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "LaundryMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Mappers\\LaundryMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -890,9 +855,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "ConfigurationBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Services\\ConfigurationBusiness.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -902,9 +867,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "LaundrySystem.WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
               "RelativeToolTip": "LaundrySystem.WebApi\\LaundrySystem.WebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -914,9 +879,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "IConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IConfigurationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -926,9 +891,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "ILaundryService.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\ILaundryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -938,22 +903,21 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "AuthentificationController.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Presentation\\Controllers\\AuthentificationController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:54:39.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T19:54:39.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "20241226213943_changedDurationColumnName.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Migrations\\20241226213943_changedDurationColumnName.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -963,9 +927,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -975,9 +939,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "20241223115123_initDb.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Migrations\\20241223115123_initDb.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -987,9 +951,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "IJWTTokenManager.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IJWTTokenManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -999,9 +963,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "IOwnerDao.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
               "RelativeDocumentMoniker": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
               "RelativeToolTip": "LaundrySystem.WebApi\\Business\\Domain\\Interfaces\\IOwnerDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1011,9 +975,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "AuthMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
               "RelativeToolTip": "LaundrySystem.Domain\\ValueObjects\\AuthMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1023,9 +987,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "LaundrySystem.Simulator.csproj",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
               "RelativeDocumentMoniker": "LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
               "RelativeToolTip": "LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1035,9 +999,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
               "RelativeDocumentMoniker": "LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
               "RelativeToolTip": "LaundrySystem.Simulator\\Services\\ConfigurationService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1048,9 +1012,9 @@
               "DocumentIndex": 61,
               "Title": "AppContext.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
               "ToolTip": "C:\\Users\\Nacir\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c63545cc2684dc74a93fb90a31b00514a7401d66eef4c9e14d4fd94016b79edb\\AppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAArAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T19:20:22.305Z"
@@ -1060,9 +1024,9 @@
               "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Nacir\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\GestionLaveries\\LaundrySystem.WebApi\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T18:56:24.892Z"

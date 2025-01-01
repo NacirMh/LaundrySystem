@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWnh7LjiaRA=",
+  "dgSpecHash": "kmXJT9JQiFY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Domain\\LaundrySystem.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nacir\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Nacir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",

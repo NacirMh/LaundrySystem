@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj": {}
+    "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj": {
+    "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
+        "projectUniqueName": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
         "projectName": "LaundrySystem.Simulator",
-        "projectPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
+        "projectPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\LaundrySystem.Simulator.csproj",
         "packagesPath": "C:\\Users\\Nacir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nacir\\Desktop\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\obj\\",
+        "outputPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\.net Projects\\LaundrySystem\\LaundrySystem.Simulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

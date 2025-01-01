@@ -1,13 +1,8 @@
-﻿using Azure.Messaging;
-using LaundrySystem.Domain.Dtos.Owner;
-using LaundrySystem.Domain.Models;
+﻿
 using LaundrySystem.Domain.ValueObjects;
 using LaundrySystem.WebApi.Business.Domain.Interfaces;
-using LaundrySystem.WebApi.Business.Services;
 using LaundrySystem.WebApi.Presentation.Mappers;
 using System.Net.WebSockets;
-using System.Reflection.Metadata;
-using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
 
@@ -48,7 +43,7 @@ namespace LaundrySystem.WebApi.WebSocketLib
                 await _requestDelegate(context);
             }
         }
-
+        
         public async Task HandleConnection(WebSocket ws)
         {
             var buffer = new byte[4096];
@@ -99,10 +94,12 @@ namespace LaundrySystem.WebApi.WebSocketLib
                 }
                 
             }
-            if (ws.State != WebSocketState.Closed)
+            if (ws.State != WebSocketState.Closed )
             {
                 await ws.CloseAsync(WebSocketCloseStatus.NormalClosure, "Closed by server", CancellationToken.None);
-                _connectionManager.RemoveSocket(ws);
+                if(_connectionManager.getSockets().Find(x => x.Socket == ws) != null) { 
+                    _connectionManager.RemoveSocket(ws);
+                }
             }
         }
 
