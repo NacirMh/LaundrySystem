@@ -18,10 +18,6 @@ C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\D
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\ref\LaundrySystem.Simulator.dll
 C:\Users\Nacir\Desktop\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.sourcelink.json
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.exe
-C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.deps.json
-C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.runtimeconfig.json
-C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.dll
-C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.pdb
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Domain.dll
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Domain.pdb
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.csproj.AssemblyReference.cache
@@ -34,5 +30,9 @@ C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simula
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.dll
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\refint\LaundrySystem.Simulator.dll
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.pdb
+C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.deps.json
+C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.runtimeconfig.json
+C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.dll
+C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\bin\Debug\net8.0\LaundrySystem.Simulator.pdb
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\LaundrySystem.Simulator.genruntimeconfig.cache
 C:\Users\Nacir\Desktop\Nacir\c#\.net Projects\LaundrySystem\LaundrySystem.Simulator\obj\Debug\net8.0\ref\LaundrySystem.Simulator.dll
